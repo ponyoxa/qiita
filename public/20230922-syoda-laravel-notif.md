@@ -1,11 +1,11 @@
 ---
 title: PHPフレームワークLaravel入門第2版を読むときに気をつけること
 tags:
-    - "PHP"
-    - "Laravel"
+  - PHP
+  - Laravel
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-09-22T06:55:42+09:00'
+id: 4e874766cd8273dffdd0
 organization_url_name: null
 slide: false
 ignorePublish: false
