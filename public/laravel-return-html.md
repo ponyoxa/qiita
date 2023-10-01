@@ -3,7 +3,7 @@ title: LaravelでHTMLをreturnするときにできないこと
 tags:
   - Laravel
 private: false
-updated_at: '2023-10-01T17:28:59+09:00'
+updated_at: '2023-10-01T17:30:32+09:00'
 id: 58134a275cfce6f0761a
 organization_url_name: null
 slide: false
