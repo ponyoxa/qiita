@@ -3,7 +3,7 @@ title: LaravelでHTMLをreturnするときにできないこと
 tags:
   - Laravel
 private: false
-updated_at: '2023-10-01T17:28:59+09:00'
+updated_at: '2023-10-01T17:34:05+09:00'
 id: 58134a275cfce6f0761a
 organization_url_name: null
 slide: false
@@ -72,3 +72,5 @@ Route::get('hello/{msg}', function($msg){
 ## まとめ
 
 とりあえず HTML に変数を入れてそれを展開したい場合で、テンプレートを使わずに返したいときには、ヒアドキュメントで変数にいったんおさめてから、それを return する必要がありそう？
+
+実際のプロダクトでコードを書くとなったらほぼ使わなそうなところではある。
