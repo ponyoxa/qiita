@@ -1,5 +1,5 @@
 ---
-title: LaravelでHTMLをreturnするときにできないこと
+title: 【できました】LaravelでHTMLをreturnするときにできないこと
 tags:
     - Laravel
 private: false
